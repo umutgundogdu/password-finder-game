@@ -1,0 +1,33 @@
+.card-1{
+    margin: auto;
+}
+.ipcu {
+    min-width: 60px;
+    height: 60px;
+    width: 60px;
+    margin:20px;
+}
+.lampBtn{
+    background-image: url(lamp.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 60px;
+    width: 58px;  
+}
+
+.digit-open {
+    background-color: rgba(0, 220, 0, 0.5);
+}
+
+.digit-close {
+    background-color: rgba(220, 0, 0, 0.5);
+}
+.hood {
+    text-align: center;
+    font-size: 40px;
+}
+#optionsBtn {
+    margin:0 auto;
+    display:block;
+
+}

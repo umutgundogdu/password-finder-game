@@ -1,0 +1,50 @@
+body{
+    margin: 80px;
+    /*background-image: url('background.jpg');
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;*/
+}
+.hood {
+    margin: auto;
+    margin-top: 50px;
+    max-width: 500px;
+}
+.center{
+    text-align: center;
+}
+.hood-head {
+    text-align: center;
+    /**background-color: #d71b3b;**/
+    color: #500472;
+    font-style: oblique;
+}
+.border {
+    border-top: 1px solid black;
+    margin-top: 20px;
+    padding-top: 10px;
+}
+.fontb {
+    font-size: 30px;
+    color: red;
+}
+.cardBody {
+    margin: auto;
+    max-width: 1200px;
+    max-height: 800px;
+}
+.digitareaText{
+    text-align: center;
+    padding: 15px;  
+}
+.center{
+text-align: center;
+}
+.lampBtn{
+    background-image: url(lamp.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 60px;
+    width: 58px;  
+}
