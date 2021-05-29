@@ -1,5 +1,5 @@
 # password-finder-game
-password finder game with Javascript
+turkish password finder game with Javascript 
 
 Todos
 
